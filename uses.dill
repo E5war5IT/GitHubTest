@@ -1,0 +1,5 @@
+library uses;
+
+begin
+writeln('connect');
+end;

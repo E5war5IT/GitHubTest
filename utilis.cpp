@@ -1,6 +1,4 @@
 #include <iostream>
-
-// on function rand();
 #include <cstdlib>
 
 using namespace std;
@@ -13,6 +11,7 @@ int main(){
 		int num = (rand() % 10);
 		cout << x << ": " << num << "\n";
 	}
+	
 	
 	return 0;
 }

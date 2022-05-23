@@ -1,4 +1,6 @@
 program virtual;
+uses crt;
+
 begin
- writel("section");
+ writeln("section");
 end;
