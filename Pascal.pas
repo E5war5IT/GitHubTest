@@ -1,6 +1,4 @@
-program virtual;
-uses crt;
-
+program HomeWork;
 begin
  writeln("section");
 end;

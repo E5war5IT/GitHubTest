@@ -12,7 +12,6 @@ int main(){
 		cout << x << ": " << num << "\n";
 	}
 	
-	
 	return 0;
 }
  
