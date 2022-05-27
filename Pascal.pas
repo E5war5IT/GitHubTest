@@ -1,4 +1,4 @@
 program exm;
 begin
- writeln("section");
+ println("section");
 end;
