@@ -44,7 +44,6 @@ function win<T>(arg: T) : void {
   console.log(arg)
 }
 
-
 */
 
 
@@ -58,5 +57,3 @@ let myStrArr = getArray<string>(["Hello", "World"]);
 
 myNumArr.push(400); // OK
 myStrArr.push("Hello TypeScript"); // OK
-
-
