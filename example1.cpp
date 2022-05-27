@@ -3,8 +3,8 @@
 
 using namespace std;
 
-int main()
-{
+int main(){
+  
     setlocale(LC_ALL, "RUS");
     int i, j, N, M, a[20][20],b[20];
     cout << "Enter number of rows. N=";
