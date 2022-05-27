@@ -1,4 +1,4 @@
-program virtual;
+program HomeWork;
 begin
- writel("section");
+ writeln("section");
 end;

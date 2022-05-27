@@ -1,6 +1,4 @@
 #include <iostream>
-
-// on function rand();
 #include <cstdlib>
 
 using namespace std;
