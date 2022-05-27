@@ -1,4 +1,4 @@
-program HomeWork;
+program exm;
 begin
  writeln("section");
 end;
